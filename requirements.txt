@@ -2,7 +2,7 @@ alabaster==0.7.9
 alembic==1.4.2
 altgraph==0.17
 ams==0.5
-anaconda-client==1.7.2
+anaconda-client==1.2.2
 anaconda-navigator==1.10.0
 anaconda-project==0.8.3
 aniso8601==8.0.0
