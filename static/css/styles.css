@@ -1,0 +1,28 @@
+body {
+    background-image: url("plight.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+   
+}
+
+
+
+.navbar {
+  background-color: #d3d3d3;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+  .navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
