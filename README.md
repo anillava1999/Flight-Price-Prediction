@@ -11,6 +11,11 @@
   * [Future scope of project](#future-scope)
 
 
+## Linkdin Profile
+For any queries regarding about this project contact me
+
+Link : https://www.linkedin.com/in/anil-l-b023631b6/
+
 ## Demo
 Link: [https://flight-price-prediction-mlanil.herokuapp.com]
 
