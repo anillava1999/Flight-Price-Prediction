@@ -1,14 +1,14 @@
 # Flight Fare Prediction: 
 
 ## Table of Content
-  * [Demo](#demo)
-  * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
-  * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
+  * Demo
+  * Overview
+  * Motivation
+  * Installation
+  * Deployement on Heroku
+  * Directory Tree
+  * Bug / Feature Request
+  * Future scope of project
 
 
 ## Linkdin Profile
