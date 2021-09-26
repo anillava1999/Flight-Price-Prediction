@@ -27,10 +27,12 @@ Link: [https://flight-price-prediction-mlanil.herokuapp.com]
 
 
 
-
-
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
+* Flight Price Prediction created as an AI module and integrated with Web app to predict the price of flight ticket.
+* Developed these POC the Internship.
+* Created API using Flask Framework and integrated with Heroku cloud platform.
+
 
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
